@@ -1,0 +1,31 @@
+{
+  "name": "collectioneventemitter2",
+  "version": "0.0.1",
+  "description": "A base class to extend for any class that wants to use both UnderscoreJS array mixins and eventemitter2",
+  "keywords": [
+    "event",
+    "events",
+    "emitter",
+    "eventemitter",
+    "eventemitter2",
+    "lodash",
+    "underscore",
+    "mixin",
+    "collection"
+  ],
+  "license": "MIT",
+  "author": "Tarun Chaudhry <tarunc92@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tarunc/collectioneventemitter2.git"
+  },
+  "dependencies": {
+    "eventemitter2": "~0.4.12",
+    "lodash": "~1.3.1"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
